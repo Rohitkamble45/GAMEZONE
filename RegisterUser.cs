@@ -28,7 +28,7 @@ namespace GAMEZONE
 
         private void cmbbxUserType_SelectedIndexChanged(object sender, EventArgs e)
         {
-            sxedcrfvgbhnjmkfcgvbhnj;
+            //sxedcrfvgbhnjmkfcgvbhnj;
         }
 
         private void RegisterUser_Load(object sender, EventArgs e)
